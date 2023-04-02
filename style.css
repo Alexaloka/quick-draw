@@ -1,0 +1,25 @@
+body
+{
+    background-color: palevioletred;
+}
+#score
+{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#timer
+{
+    font-size: 20px;
+    margin-right: 20px;
+    float: right;
+
+}
+canvas
+{
+    border: 5px solid turquoise;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 100px;
+    animation-iteration-count: infinite;
+}
